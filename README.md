@@ -1,4 +1,4 @@
-![Douglas Cardoso Uyemura](https://user-images.githubusercontent.com/80977502/113771812-421b2e00-96fa-11eb-9662-476a2cc6e7ed.png)
+![20211520525](https://user-images.githubusercontent.com/82124155/117212870-460d9f00-add1-11eb-8416-f56677b88604.png)
 <center>
 <table>
     <tr>
