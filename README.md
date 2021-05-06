@@ -11,7 +11,7 @@
 # Olá!
 ## Meu nome é Douglas Uyemura 😄.
 
-Eu sou desenvolvedor IOS, estou no terceiro semestre de sistemas de informação e gosto de strogonoff
+Spu estudante de Sistemas de INformação na universidade Anhembi Morumbi e Desenvolvedor IOS.
 
 ## Sobre mim
 
