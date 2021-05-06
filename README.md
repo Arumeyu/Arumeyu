@@ -11,7 +11,7 @@
 # Olá!
 ## Meu nome é Douglas Uyemura 😄.
 
-Spu estudante de Sistemas de Informação na universidade Anhembi Morumbi e Desenvolvedor IOS.
+Sou estudante de Sistemas de Informação na universidade Anhembi Morumbi e Desenvolvedor IOS.
 
 ## Sobre mim
 
