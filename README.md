@@ -20,4 +20,4 @@ Sou estudante de Sistemas de Informação na universidade Anhembi Morumbi e Dese
 
 Views
 
-![](https://komarev.com/ghpvc/?username=seunomes&color=orange)
+![](https://komarev.com/ghpvc/?username=Arumeyu&color=orange)
