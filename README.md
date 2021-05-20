@@ -1,4 +1,4 @@
-![20211520525](https://user-images.githubusercontent.com/82124155/117212870-460d9f00-add1-11eb-8416-f56677b88604.png)
+![Douglas](https://user-images.githubusercontent.com/82124155/119056734-970cbe00-b9a1-11eb-8627-8cde46245182.png)
 <center>
 <table>
     <tr>
