@@ -1,9 +1,9 @@
-![Douglas](https://user-images.githubusercontent.com/82124155/119056734-970cbe00-b9a1-11eb-8627-8cde46245182.png)
+![Douglas (1)](https://user-images.githubusercontent.com/82124155/119077292-67be7700-b9ca-11eb-8553-8ee1e5052432.png)
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seunome&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arumeyu&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Arumeyu&theme=buefy"/></td>
     </tr>   
 </table>
 </center>
