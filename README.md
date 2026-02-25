@@ -11,7 +11,7 @@
 # Olá!
 ## Meu nome é Douglas Uyemura 😄.
 
-Sou estudante de Sistemas de Informação na universidade Anhembi Morumbi e Desenvolvedor IOS.
+Sou formado em Sistemas de Informação na universidade Anhembi Morumbi e Desenvolvedor Android/IOS.
 
 ## Sobre mim
 
